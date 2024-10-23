@@ -13,6 +13,8 @@
 <a name="introduction"></a>
 Template One is a HTML and CSS design project aimed at providing a clean and modern template for web development.
 
+**Demo:** [View Demo](https://bodaa004.github.io/Leon-Template/)
+
 ## Features
 <a name="features"></a>
 - **Responsive Design**: Adapts to different screen sizes.
